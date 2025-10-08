@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Meu pau, cansou de girar </h1>
+    return <h1> Tomou um azulzin </h1>
 
 }
 
